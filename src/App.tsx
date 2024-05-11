@@ -42,6 +42,9 @@ const App = () => {
   return (
     <div>
       <center>
+        <h1>Mar4ik Dev</h1>
+      </center>
+      <center>
         <div className="">
           <div className="input-container">
             <input
